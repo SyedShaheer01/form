@@ -1,0 +1,48 @@
+h1{
+    font-size: 40px;
+    font-family: sans-serif;
+}
+p{
+    font-size: 25px;
+    color: rgb(133, 133, 133);
+}
+table{ 
+    
+    border-color:rgb(255, 255, 255);
+    color: rgb(34, 128, 234);
+    border: 1px solid rgb(222, 222, 222);
+   width: 600px;
+   margin: 10px;
+   height: 50px;
+   text-align: center;
+   border-collapse: separate;
+   border-spacing: 3px ;
+   padding: 10px;
+}
+.formgroup{
+    color: rgb(13, 135, 241);
+    padding: 60px 1px;
+    font-size: 25px;
+}
+.formgroup input{
+    align-items: center;
+text-align: center;
+font-size: 25px;
+
+
+    
+    padding: 10px 90px;
+    border: 2px solid greenyellow;
+    border-radius: 7px;
+ }   
+ button{
+    color: white;
+    background-color: rgb(82, 82, 219);
+    border-color:rgb(208, 208, 208);
+text-align: center;
+padding: 15px 214px;
+font-size: 20px;
+margin: px px;
+cursor: pointer;
+border-radius: 7px; 
+}
